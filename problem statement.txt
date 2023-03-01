@@ -1,0 +1,9 @@
+Your organization is using a network security monitoring tool to collect data on network events, and you have been provided with a dataset of event records in the same format as the JSON objects above. Your task is to build a classifier that can predict the "event_type" of new, unseen events based on the available features in the data.
+
+To solve this problem, you would need to:
+
+1. Explore the dataset to understand the distribution and characteristics of the different event types.
+2. Preprocess the data as needed, such as by handling missing values or encoding categorical features.
+3. Split the dataset into training and test sets.
+4. Train a classifier on the training set using an appropriate machine learning algorithm.
+5. Evaluate the class
